@@ -1,6 +1,21 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-## AySail (Jer) — Welcome to My Projects!
+                                                               ,--,    
+                                                            ,---.'|    
+   ,---,                    .--.--.      ,---,         ,---,|   | :    
+  '  .' \            ,---, /  /    '.   '  .' \     ,`--.' |:   : |    
+ /  ;    '.         /_ ./||  :  /`. /  /  ;    '.   |   :  :|   ' :    
+:  :       \  ,---, |  ' :;  |  |--`  :  :       \  :   |  ';   ; '    
+:  |   /\   \/___/ \.  : ||  :  ;_    :  |   /\   \ |   :  |'   | |__  
+|  :  ' ;.   :.  \  \ ,' ' \  \    `. |  :  ' ;.   :'   '  ;|   | :.'| 
+|  |  ;/  \   \\  ;  `  ,'  `----.   \|  |  ;/  \   \   |  |'   :    ; 
+'  :  | \  \ ,' \  \    '   __ \  \  |'  :  | \  \ ,'   :  ;|   |  ./  
+|  |  '  '--'    '  \   |  /  /`--'  /|  |  '  '--' |   |  ';   : ;    
+|  :  :           \  ;  ; '--'.     / |  :  :       '   :  ||   ,/     
+|  | ,'            :  \  \  `--'---'  |  | ,'       ;   |.' '---'      
+`--''               \  ' ;            `--''         '---'              
+                     `--`                                              
+                                                                       
 
 Hey! **I’m Jer (also known as AySail),** a young hobbyist coder with a **passion** for creating cool stuff. This repo is home to my ongoing projects, experiments, and creative ventures.
 
